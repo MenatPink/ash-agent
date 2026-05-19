@@ -1,0 +1,8 @@
+.ash
+.swc
+.output
+.vercel
+.env*
+.workflow-data
+.DS_Store
+node_modules
